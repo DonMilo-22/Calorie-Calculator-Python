@@ -15,10 +15,10 @@ python "Calculadora de Calorias.py"
 ```
 You will be prompted:
 ```
-Cual es tu genero? (H/M) H
-Cual es tu edad: 20
-Cual es tu estatura en cm: 172
-Cual es tu peso en kg: 84
+Cual es tu genero? (H/M) 
+Cual es tu edad: 
+Cual es tu estatura en cm:
+Cual es tu peso en kg: 
 ```
 The script will then output something like:
 ```
